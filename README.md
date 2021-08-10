@@ -10,7 +10,7 @@ Source :- https://s0md3v.medium.com/learn-to-code-in-less-than-a-week-8f3da5e0ab
 - variables
 - concatenation
 - string formatting
-- if else elif statements
+- if else elseif statements
 - comparison operators
 - arithmetic operators
 - increment & decrement operators
